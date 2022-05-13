@@ -1,6 +1,6 @@
 # Module Challenge 4
 ---
-## Description
+## Quantitave analysis of key risk and return metrics
 As a quant analyst, we reviewed four funds and the S&P 500, comparing one another to make a decision which too add to our clients portfolio. We determined the fund with the most potential based on key risk-managment metrics which were daily returns, standard deviations, sharpe ratios, and betas.
 ---
 ## Technologies
